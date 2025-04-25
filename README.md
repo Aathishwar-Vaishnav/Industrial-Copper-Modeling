@@ -1,5 +1,7 @@
-#🏭 Industrial Copper Modeling
+🏭 Industrial Copper Modeling
 Predicting Selling Price and Status Using Machine Learning
+
+
 📌 Project Overview
 This project applies advanced machine learning techniques to analyze and predict two crucial metrics in the industrial copper manufacturing domain:
 •	📈 Selling Price (Regression)
